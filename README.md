@@ -2,7 +2,7 @@
 
 | RatingView<br>[Pinterest](https://www.pinterest.com/pin/815784920036458642/) |
 | :- |
-| ![](./image/RatingView.jpg) |
+| [![O4bte7harjY](https://img.youtube.com/vi/O4bte7harjY/0.jpg)](https://www.youtube.com/watch?v=O4bte7harjY) |
 
 
 ## 開發者
