@@ -25,7 +25,7 @@ struct UI_RealityApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+			JobPlatformView()
         }
         .modelContainer(sharedModelContainer)
     }
