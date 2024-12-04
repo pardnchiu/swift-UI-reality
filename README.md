@@ -6,19 +6,19 @@
 
 - 範例設計 [Pinterest](https://www.pinterest.com/pin/815784920036458642/)
 - 範例展示 [Youtube](https://www.youtube.com/watch?v=O4bte7harjY)<br>
-    [![O4bte7harjY](https://img.youtube.com/vi/O4bte7harjY/0.jpg)](https://www.youtube.com/watch?v=O4bte7harjY)
+    [![O4bte7harjY](./image/RatingView.jpg)](https://www.youtube.com/watch?v=O4bte7harjY)
 
 ### SpinningSocial (2024/11/22)
 
 - 範例設計 [Pinterest](https://www.pinterest.com/pin/815784920036396842/)
 - 範例展示 [Youtube](https://www.youtube.com/watch?v=nmZmxvP06rc)<br>
-    [![O4bte7harjY](https://img.youtube.com/vi/nmZmxvP06rc/0.jpg)](https://www.youtube.com/watch?v=nmZmxvP06rc)
+    [![O4bte7harjY](./image/SpinningSocialView.jpg)](https://www.youtube.com/watch?v=nmZmxvP06rc)
 
 ### JobPlatformView (2024/11/24)
 
 - 範例設計 [Pinterest](https://www.pinterest.com/pin/815784920036500039/)
 - 範例展示 [Youtube](https://www.youtube.com/watch?v=Qep8HkYAYt8)<br>
-    [![Qep8HkYAYt8](https://img.youtube.com/vi/Qep8HkYAYt8/0.jpg)](https://www.youtube.com/watch?v=Qep8HkYAYt8)
+    [![Qep8HkYAYt8](./image/JobPlatformView.jpg)](https://www.youtube.com/watch?v=Qep8HkYAYt8)
 
 ## 開發者
 
